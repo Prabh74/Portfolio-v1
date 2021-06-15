@@ -1,0 +1,105 @@
+/* Color Scheme FFF5FD
+FF96AD
+005A8D
+022E57 */
+
+/* Tags */
+
+body
+{
+    background-color: #FFF5FD;
+    font-family: 'Montserrat', sans-serif;
+    text-align: center;
+}
+
+h1
+{
+    font-family: 'Dancing Script', cursive;
+    font-weight: 700;
+    font-size: 4rem;
+    margin: 0.5%;
+}
+
+h3
+{
+    font-size: 2rem;
+
+}
+
+a
+{
+    text-decoration: none;
+    color: #FFF;
+    font-size: 1.2rem;
+}
+
+a:hover
+{
+    color: #FF96AD;
+}
+
+i
+{
+    margin: 0px 10px;
+}
+/* Classes */
+
+.intro
+{
+    font-family: 'Dancing Script', cursive;
+    margin: 0.5%;
+    font-size: 2rem;
+}
+
+.carouselImageCustom
+{
+    height: 200px;
+    width: 200px;
+    border-radius: 100%;
+}
+
+.EducationPic
+{
+    width: 100px;
+    height: 100px;
+    border-radius: 100%;
+    margin: 5% 0%;
+}
+
+.ContactLinks
+{
+padding: 2%;
+padding-bottom: 0%;
+}
+
+/* ids */
+
+#Intro
+{
+    width: 100%;
+    text-align: center;
+    margin-top: 10%;
+    padding-bottom: 5%;
+}
+
+#Skills
+{
+    background-color: #FF96AD;
+    color: #FFF;
+    text-align: center;
+    padding-top: 3%;
+    padding-bottom: 5%;
+    
+}
+
+#Education
+{
+    padding: 5%;
+}
+
+#ContactMe
+{
+    background-color: #022e57;
+    color: #FFF5FD;
+    padding: 1%;
+}
